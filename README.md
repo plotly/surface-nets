@@ -2,6 +2,12 @@ surface-nets
 ============
 Extract a simplicial level set from an [ndarray](https://github.com/mikolalysenko/ndarray) in any dimension using naive surface nets.  This module works in both node.js and with [browserify](http://browserify.org/)!
 
+<div align="center">
+  <a href="https://dash.plotly.com/project-maintenance">
+    <img src="https://dash.plotly.com/assets/images/maintained-by-plotly.png" width="400px" alt="Maintained by Plotly">
+  </a>
+</div>
+
 
 If you are doing experiments with greedy meshing or working with rectangular data, then you might want [contour2d](https://github.com/mikolalysenko/contour2d) instead.
 
